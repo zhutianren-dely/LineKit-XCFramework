@@ -1,0 +1,6 @@
+framework module LineKit {
+  umbrella header "LineKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
